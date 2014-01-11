@@ -9,3 +9,10 @@
 
     3. just make it (there already exists the Makefile)
 
+    4. Feel free to contact with me if you have any question about it.
+
+##The original version
+``` bash
+This template is a modified version of the NTU LaTeX template.
+(http://www.csie.ntu.edu.tw/~tzhuan/www/resources/ntu/)
+```
