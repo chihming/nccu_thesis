@@ -7,9 +7,9 @@
 
     2. install the nkait typeface (directly execute the install.sh)
 
-    3. just make it (there already exists the Makefile)
+    3. just make it (there already exists a Makefile)
 
-    4. Feel free to contact with me if you have any question about it. (changecandy at gmail)
+    4. Feel free to contact me if you have any question about it. (changecandy at gmail)
 
 ##The original version
 
